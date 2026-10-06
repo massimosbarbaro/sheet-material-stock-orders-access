@@ -1,0 +1,2 @@
+SELECT Materiale.RifDesc, Materiale.Materiale, Materiale.Finitura, Materiale.Spessore, Materiale.Altezza, Materiale.Larghezza, Materiale.[Minimo KG], Materiale.PctScarto, Materiale.PS, Movimenti.Data, Movimenti.Tipo, Movimenti.RifOrd, Movimenti.DataPrevista, Movimenti.Qta, Movimenti.Annullato, Movimenti.Evaso, Movimenti.Cliente, Movimenti.DataAnnullato, Movimenti.DataEvaso
+FROM Materiale INNER JOIN Movimenti ON Materiale.RifDesc = Movimenti.RifDesc;

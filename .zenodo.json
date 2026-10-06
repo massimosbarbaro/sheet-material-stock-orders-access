@@ -1,0 +1,22 @@
+{
+  "title": "Stock and order control for sheet materials (Microsoft Access 97, 2001)",
+  "upload_type": "software",
+  "description": "<p><em>Magazzino e ordini di materiale in lastre e nastri</em></p><p>A stock and order control database for sheet and strip materials. Each material is described by reference, material, finish, thickness, height and width, minimum stock in kilograms, scrap percentage and specific weight; stock movements and customer orders are recorded with type, expected date, quantity, cancellation and fulfilment.</p><p>Designed and programmed by Massimo Sbarbaro in 2001 (Microsoft Access 97). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Microsoft Access",
+    "inventory",
+    "stock control",
+    "orders",
+    "legacy software"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Original development: 2001."
+}
