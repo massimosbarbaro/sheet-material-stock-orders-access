@@ -9,6 +9,7 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
+doi: "10.5281/zenodo.23205239"
 repository-code: "https://github.com/massimosbarbaro/sheet-material-stock-orders-access"
 keywords:
   - "Microsoft Access"

@@ -1,5 +1,7 @@
 # Stock and order control for sheet materials
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205239.svg)](https://doi.org/10.5281/zenodo.23205239)
+
 *Magazzino e ordini di materiale in lastre e nastri*
 
 **Microsoft Access 97** · 2001 · version 1.0  
@@ -39,9 +41,9 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205239](https://doi.org/10.5281/zenodo.23205239).
 
-> Sbarbaro, Massimo. *Stock and order control for sheet materials (Microsoft Access 97, 2001)*. Software, version 1.0. GitHub: https://github.com/massimosbarbaro/sheet-material-stock-orders-access
+> Sbarbaro, Massimo. 2001. *Stock and order control for sheet materials*. Software (Microsoft Access 97, 2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205239.
 
 ## License
 
