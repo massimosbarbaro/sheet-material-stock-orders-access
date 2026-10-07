@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Stock and order control for sheet materials (Microsoft Access 97, 2001)"
+title: "Stock and order control for sheet materials (db, 2001)"
 version: "1.0"
 abstract: "A stock and order control database for sheet and strip materials. Each material is described by reference, material, finish, thickness, height and width, minimum stock in kilograms, scrap percentage and specific weight; stock movements and customer orders are recorded with type, expected date, quantity, cancellation and fulfilment."
 authors:

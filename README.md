@@ -4,7 +4,7 @@
 
 *Magazzino e ordini di materiale in lastre e nastri*
 
-**Microsoft Access 97** · 2001 · version 1.0  
+**db** · 2001 · version 1.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -43,7 +43,7 @@ The database is published **empty**: every table has been emptied and the file c
 
 Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205239](https://doi.org/10.5281/zenodo.23205239).
 
-> Sbarbaro, Massimo. 2001. *Stock and order control for sheet materials*. Software (Microsoft Access 97, 2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205239.
+> Sbarbaro, Massimo. 2001. *Stock and order control for sheet materials*. Software (db, 2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205239.
 
 ## License
 
